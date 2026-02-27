@@ -1,8 +1,8 @@
-package aula_2_exercicio1;
+package aula_2_exercicio_1;
 
 import java.util.Scanner;;
 
-public class aula_2_praticar_if_else {
+public class Main {
     public static void main(String[] args){Scanner scanner = new Scanner(System.in);
         System.out.print("Digite seu peso (em kg): ");
         double peso = scanner.nextDouble();

@@ -1,8 +1,8 @@
-package aula_2_exercicio3;
+package aula_2_exercicio_3;
 
 import java.util.Scanner;
 
-public class aula_2_praticar_while {
+public class Main {
     public static void main(String[] args) {
         String r ;
         Scanner sc = new Scanner(System.in);

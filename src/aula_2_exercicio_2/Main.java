@@ -1,8 +1,8 @@
-package aula_2_exercicio2;
+package aula_2_exercicio_2;
 
 import java.util.Scanner;
 
-public class aula_2_praticar_switch_case {
+public class Main {
         public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
 

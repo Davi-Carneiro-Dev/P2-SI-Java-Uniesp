@@ -1,4 +1,4 @@
-package aula_1_exercicio2;
+package aula_1_exercicio_2;
 
 public class Main {
     public static void main(String[] args) {
