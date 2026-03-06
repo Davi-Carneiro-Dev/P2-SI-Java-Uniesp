@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf77ed9d-43ec-4edf-9c3a-96e1938f0c3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/aula_2_exemplo/aula_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula_2_exemplo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula_2_exercicio1/aula_2_praticar_if_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula_2_exercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula_2_exercicio2/aula_2_praticar_switch_case.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula_2_exercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula_2_exercicio3/aula_2_praticar_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/aula_2_exercicio3/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Davi-Carneiro-Dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Davi-Carneiro-Dev/P2-SI-Java-Uniesp.git",
+    "accountId": "4ffe974f-cf9c-48c2-91d9-16c184c020ea"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3AE6eUWtSWi5GuAF8HZUXgqCHlE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Davicomaster/IdeaProjects/aula_03/src",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf77ed9d-43ec-4edf-9c3a-96e1938f0c3f" name="Changes" comment="" />
+      <created>1772145477296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772145477296</updated>
+      <workItem from="1772145478401" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

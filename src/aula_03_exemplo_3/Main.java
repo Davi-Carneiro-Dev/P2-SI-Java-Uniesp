@@ -13,7 +13,7 @@ public class Main {
         n1 = sc.nextInt();
         System.out.println("Número 2");
         n2 = sc.nextInt();
-        System.out.println(c.soma(n1,n2));
+        //System.out.println(c.soma(n1,n2));
         //erro por causa de muitas calculadoras
 
 
